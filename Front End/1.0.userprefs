@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="For Ubuntu/Form1.cs">
+    <Files>
+      <File FileName="For Ubuntu/Program.cs" Line="1" Column="1" />
+      <File FileName="For Ubuntu/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="For Ubuntu/Form1.resx" Line="1" Column="1" />
+      <File FileName="For Ubuntu/Form1.cs" Line="65" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

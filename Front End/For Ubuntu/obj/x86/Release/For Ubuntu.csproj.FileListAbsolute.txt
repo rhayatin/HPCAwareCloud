@@ -1,0 +1,8 @@
+C:\Users\Naveed\documents\visual studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Naveed\documents\visual studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\For Ubuntu.csproj.GenerateResource.Cache
+C:\Users\Naveed\Documents\Visual Studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\For Ubuntu.csprojResolveAssemblyReference.cache
+C:\Users\Naveed\Documents\Visual Studio 2010\Projects\1.0\For Ubuntu\bin\Release\Ubuntu.exe
+C:\Users\Naveed\Documents\Visual Studio 2010\Projects\1.0\For Ubuntu\bin\Release\Ubuntu.pdb
+C:\Users\Naveed\Documents\Visual Studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\Ubuntu.exe
+C:\Users\Naveed\Documents\Visual Studio 2010\Projects\1.0\For Ubuntu\obj\x86\Release\Ubuntu.pdb
